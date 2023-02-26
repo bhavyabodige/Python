@@ -2,7 +2,7 @@
 
 # Word Replacement Program : This Program is for replacing a word in a given string/sentence using the replace() function.
 
-# Email Slicer Program : This Program is for slicing the emailinto username, domain and extension using the split() function
+# Email Slicer Program :  This Program is for slicing the email into username, domain and extension using the split() function.
 
 # The Picnic Madlibs game : The main objective of this project is to build a mad lib Picnic  game by just using core python knowledge.
                             Here in this project, we will allow users to inputs specific words like a noun, adverb, verb, month,date, animal, adjective, etc., 
